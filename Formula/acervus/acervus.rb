@@ -1,7 +1,7 @@
 class Acervus < Formula
   desc "CLI tool for interacting with Acervus Cloud"
   homepage "https://github.com/paribu/acervus-cli"
-  url "https://github.com/Rustalorian/acervus-cli/archive/refs/tags/v.0.0.9.tar.gz"
+  url "https://github.com/Rustalorian/acervus-cli/archive/refs/tags/v0.0.10.tar.gz"
   sha256 "9c0bb5d99121fb0dd6df601eb17b33b938c0ace1054dc70fead746540400a3cb"
   head "https://github.com/paribu/acervus-cli.git", branch: "main"
 
